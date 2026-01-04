@@ -1,7 +1,7 @@
 ## Hi there, I'm Swaraj Patil
 
 ## About Me:
-👨‍💻 AI Engineer | Generative & Agentic AI | Python, PyTorch<br>🧠 LLM systems: RAG, tool-using agents, and evaluation beyond demos<br>🔬 Method-first: strong baselines, careful ablations, reproducible experiments<br>📊 Foundation: Data analytics + dataviz to turn model outputs into decisions<br>☁️ AWS-ready ML workflows; deployment-minded from day one<br>🤝 Open to AI/ML opportunities & collaborations | pswaraj0614@email.com | linkedin.com/in/swaraj-patil-ai-ds<br>
+👨‍💻 AI Engineer | Generative & Agentic AI | Python, PyTorch<br>🧠 LLM systems: RAG, tool-using agents, and evaluation beyond demos<br>🔬 Method-first: strong baselines, careful ablations, reproducible experiments<br>📊 Foundation: Data analytics + dataviz to turn model outputs into decisions<br>☁️ AWS-ready ML workflows; deployment-minded from day one<br>🤝 Open to AI/ML opportunities & collaborations 
 
 
 ## 🌐 Socials:
