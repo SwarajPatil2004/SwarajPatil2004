@@ -7,8 +7,6 @@
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/swaraj-patil-ai-ds) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@pswaraj0614) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pswaraj0614@gmail.com) 
 
-<details>
-  <summary><b>🧠 Skills</b></summary>
 
   ## 🧠 Skills
 
@@ -64,9 +62,6 @@
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 ![Power%20BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
-
-
-</details>
 
 
 # 📊 GitHub Stats:
